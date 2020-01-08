@@ -1,6 +1,6 @@
 # Dmitrii Averin
 
-# Project for Softcomputing course
+# Project for Softcomputing course in TBU
 
 # Realization of Naive Bayes and k-nn algorithms
 
@@ -15,4 +15,5 @@ npm install
 ```
 npm run serve
 ```
+
 # knn_naive

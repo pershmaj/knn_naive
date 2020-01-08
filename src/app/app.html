@@ -1,0 +1,15 @@
+<div id="app">
+    <b-container>
+        <b-row class="navnb mt-4">
+            <b-col class="text-center" @click="toggle = false">
+                <h5>Naive Bayes</h5>
+            </b-col>
+            <b-col class="text-center" @click="toggle = true">
+                <h5>k-nn</h5>
+            </b-col>
+        </b-row>
+        <hr />
+        <nb v-if="!toggle"></nb>
+        <knn v-if="toggle"></knn>
+    </b-container>
+</div>
