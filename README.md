@@ -1,24 +1,18 @@
-# test-vue-reactivity
+# Dmitrii Averin
+
+# Project for Softcomputing course
+
+# Realization of Naive Bayes and k-nn algorithms
 
 ## Project setup
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# knn_naive
